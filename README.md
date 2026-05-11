@@ -73,9 +73,12 @@ AI × Web3 Infrastructure
 
 <div align="center">
 
-![hoddukzoa12's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoddukzoa12&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoddukzoa12&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoddukzoa12&layout=compact&theme=tokyonight&hide_border=true)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoddukzoa12&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoddukzoa12&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoddukzoa12&theme=tokyonight&hide_border=true)
 
 </div>
 
