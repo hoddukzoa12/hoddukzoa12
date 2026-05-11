@@ -38,15 +38,23 @@ AI × Web3 Infrastructure
 
 ---
 
+## 🏆 Awards & Recognition
+
+| Award | Project | Notes |
+| --- | --- | --- |
+| **1st Place — Arbitrum Mini Hackathon** | [STARK zk Coprocessor / StarkVerifier](https://github.com/hoddukzoa12/starkverifier) | Built a STARK-based verification/coprocessor prototype for the Arbitrum ecosystem |
+
+---
+
 ## 🚀 Selected Projects
 
 | Project | What it is | Stack / Area |
 | --- | --- | --- |
+| [StarkVerifier](https://github.com/hoddukzoa12/starkverifier) 🏆 | 1st place Arbitrum Mini Hackathon project — STARK zk Coprocessor / verification prototype | TypeScript, STARK, Arbitrum |
 | [StableRail](https://github.com/hoddukzoa12/stablerail) | Multi-asset stablecoin pool / AMM prototype built for StableHacks 2026 | Rust, Solana, DeFi |
 | [BTCLP](https://github.com/hoddukzoa12/BTCLP) | BTCFi strategy vault for LP/lending yield optimization | Cairo, Starknet, BTCFi |
 | [RealBot](https://github.com/hoddukzoa12/realbot) | Trustless trading-agent verification with STARK proofs | STARK, Arbitrum Stylus, Agents |
 | [CrowdMantle](https://github.com/hoddukzoa12/crowdmantle) | Milestone-based decentralized equity crowdfunding | TypeScript, Mantle, Web3 |
-| [StarkVerifier](https://github.com/hoddukzoa12/starkverifier) | Experiments around Starknet/STARK verification flows | TypeScript, Starknet |
 
 ---
 
